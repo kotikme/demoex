@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7mp751zSNiSwbT+GzBUlt/z0MUeFPnf3DqzB3gBOxfbMuRZvKrAfXDd3h2iH/Aes6FG4c1biAcBdahHBzfpBSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TEMP\\source\\repos\\demoex\\demoex\\demoex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TEMP\\.nuget\\packages\\npgsql\\5.0.0\\npgsql.5.0.0.nupkg.sha512",
+    "C:\\Users\\TEMP\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
